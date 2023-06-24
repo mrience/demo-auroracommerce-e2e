@@ -1,0 +1,19 @@
+{
+  "name": "demo-auroracommerce-e2e",
+  "version": "1.0.0",
+  "description": "This is just a demo repository for testing e2e solutions https://demo.auroracommerce.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrience/demo-auroracommerce-e2e.git"
+  },
+  "author": "mrience",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrience/demo-auroracommerce-e2e/issues"
+  },
+  "homepage": "https://github.com/mrience/demo-auroracommerce-e2e#readme"
+}
