@@ -1,0 +1,1 @@
+export const TEST_RUN_TIMEOUT = 10000

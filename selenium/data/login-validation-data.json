@@ -1,0 +1,22 @@
+[
+  {
+    "email": "",
+    "password": "password",
+    "errorMessage": "PLEASE ENTER AN EMAIL ADDRESS"
+  },
+  {
+    "email": "email",
+    "password": "",
+    "errorMessage": "PLEASE ENTER A PASSWORD"
+  },
+  {
+    "email": "email",
+    "password": "password",
+    "errorMessage": "YOUR EMAIL AND PASSWORD WERE NOT RECOGNISED, PLEASE TRY AGAIN"
+  },
+  {
+    "email": "",
+    "password": "",
+    "errorMessage": "PLEASE ENTER AN EMAIL ADDRESS"
+  }
+]
